@@ -1,0 +1,2 @@
+body{background-color:#c4efda;height:100vh}.board,body{align-items:center;display:flex;justify-content:center}.board{flex-direction:column}.board-row{display:flex;font-size:45px}.squre{align-items:center;background-color:#3b14ba;border:1px solid #e0e099;color:beige;font-size:37px;height:90px;margin:2px;width:90px}.winner{color:#2222b2;font-size:32px}.reset{background-color:#721111;color:#7fffd4;font-size:25px;margin-top:32px}
+/*# sourceMappingURL=main.a4f59f15.css.map*/
